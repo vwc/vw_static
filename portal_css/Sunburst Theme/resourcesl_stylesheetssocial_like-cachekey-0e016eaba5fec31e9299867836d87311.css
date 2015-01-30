@@ -1,0 +1,11 @@
+
+/* - ++resource++sl_stylesheets/social_like.css - */
+@media screen {
+/* http://www.vorwaerts-werbung.de/portal_css/++resource++sl_stylesheets/social_like.css?original=1 */
+#viewlet-social-like {margin-top: 5px;}
+#viewlet-social-like .twitter-count-horizontal {height: 20px !important;}
+#viewlet-social-like .fb_edge_widget_with_comment {position: relative; margin-top: 0px;}
+.twitter-share-button {margin-top: 0.8px;}
+.horizontal .fb_iframe_widget iframe {height: 23px !important;}
+}
+
