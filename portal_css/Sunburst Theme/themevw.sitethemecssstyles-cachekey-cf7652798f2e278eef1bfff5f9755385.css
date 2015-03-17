@@ -6950,3 +6950,7 @@ filter: alpha(opacity=50);
 color: #ffffff;
 }
 
+#fullResImage {
+    position: relative;
+    padding: 16rem;
+}
