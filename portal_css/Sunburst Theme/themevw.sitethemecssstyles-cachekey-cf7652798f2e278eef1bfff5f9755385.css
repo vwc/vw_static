@@ -6952,5 +6952,8 @@ color: #ffffff;
 
 #fullResImage {
     position: relative;
-    padding: 16rem;
+    margin: 16rem;
+    padding: 2rem;
+    background-color: #d7d7d7;
+    border: 1px solid black;
 }
